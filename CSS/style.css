@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+
+
+heder img {
+  -webkit-filter: drop-shadow(3px 5px 25px #676767);
+  filter: drop-shadow(3px 5px 25px #676767);
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 0px 25%;
+    background: #f1f3f4;
+}
+
+heder h1 {
+    font-size: 48pt;
+    padding: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.menu {
+    border: 1px solid #000;
+    padding: 1%;
+    margin: 2% 25%;
+    font-size: 18pt;
+}
+
+.menu li{
+    display: inline; 
+    padding: 5px;
+}
+
+h2 {
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+hr {
+    border-color: #a2a2a2;
+    width: 7%;
+}
+
+#foot{
+    width: 50%;
+    border-color: #393939;
+}
+
+.mainMenu {
+    color: black;
+    text-decoration: none;
+}
+
+.mainMenu:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: inherit;
+}
+
+.redirect {
+    text-align: center;
+    margin-top: 40%;
+}
+
+.newsart {
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    border: 1px solid #363636;
+    box-sizing: border-box;
+    padding: 1%;
+    display: table;
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+.picture {
+    width: 25%;
+    float: left;
+}
+
+.picture img{
+    max-width: 100%;
+    border: 1px solid #363636;
+    border-radius: 5px;
+}
+
+.content {
+    float: left;
+    width: 75%;
+    text-align: left;
+}
+
+.content #all {
+    text-decoration: underline;
+}
+
+.content #all:hover {
+    text-decoration: none;
+}
+
+.content span {
+    color: #797979;
+}
+
+footer {
+    margin: 0;
+	line-height: 65%;
+}
+
+.stat {
+    text-align: left;
+}
+
+.stat h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.stat span {
+    color: #797979;
+}
+.img {
+    text-align: center;
+}
+
+.soc {
+    margin: 2%;
+}
+
+.about h2 {
+    text-align: center;
+}
+
+.about li{
+    display: inline;
+}
+
+.social ul{
+    text-align: center;
+    margin: 1%;
+    padding: 1%
+}
+
+.social li{
+    padding: 4px;
+}
