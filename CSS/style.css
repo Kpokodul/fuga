@@ -151,3 +151,7 @@ footer {
 .social li{
     padding: 4px;
 }
+
+.plrl a{
+    text-decoration: none;
+}
